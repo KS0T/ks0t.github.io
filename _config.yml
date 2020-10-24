@@ -1,2 +1,3 @@
 Name: KS0T - Amateur Radio
 markdown: kramdown
+permalink: /blog/:year/:month/:day/:title
