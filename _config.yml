@@ -1,3 +1,9 @@
 Name: KS0T - Amateur Radio
 markdown: kramdown
 permalink: /blog/:year/:month/:day/:title
+plugins:
+  - jekyll-feed
+title: KS0T Amateur Radio Blog
+description: Blog of Amateur Radio Experimentation
+author: Malcolm Heath (KS0T)
+remote_theme: "mmistakes/so-simple-theme@3.2.0"
